@@ -1,9 +1,11 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-you create a .gif file that can store and keep track of commits
+- you create a .gif file that can store and keep track of commits
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+
+- staging area is where you prepare files to be put into the working directory, which describes what is in the repository
 
 How can you use the staging area to make sure you have one commit per logical
 change?
